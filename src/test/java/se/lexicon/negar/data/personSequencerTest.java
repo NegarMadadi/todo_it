@@ -16,7 +16,7 @@ public class personSequencerTest {
 
     @Test
     public void testObject_has_correct_fields() {
-        assertEquals(1, testObject.getPersonId());
+        assertEquals(1, testObject.getPersonSequencerId());
     }
 
     @Test

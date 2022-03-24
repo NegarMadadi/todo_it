@@ -7,7 +7,7 @@ public class PersonSequencer {
         this.personId = personId;
     }
 
-    public static int getPersonId() {
+    public static int getPersonSequencerId() {
         return personId;
     }
 
