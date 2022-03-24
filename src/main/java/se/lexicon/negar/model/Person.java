@@ -4,12 +4,7 @@ package se.lexicon.negar.model;
  * @author Negar Madadi
  */
 
-//Create Person class in package model.
-//a. Required fields are personId (int and final), firstName and lastName (String).
-//b. Make a constructor that can build the object.
-//c. Create needed getters and setters.
-//d. Unit test with Junit.
-//e. Commit changes.
+
 
 public class Person {
     private final int personId = 0;
